@@ -202,6 +202,13 @@
             margin: 0 0 12px;
             letter-spacing: -0.02em;
         }
+.hero h2 {
+            font-family: Poppins;
+            font-size: 28px;
+            margin: 0 0 12px;
+            letter-spacing: -0.02em;
+        }
+       
 
         .hero p {
             margin: 0 0 22px;
